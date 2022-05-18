@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LJjia
 - 👀 I’m Live in hangzhou.
-- 🌱 I’m currently learning C/C++ Python Algorithm DeepLearning.
+- 🌱 I’m work in Moore Thread .
 
 Disaster comes off guard,but so is happiness.
 
