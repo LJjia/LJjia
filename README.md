@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LJjia
 - 👀 I’m Live in hangzhou.
-- 🌱 I’m work in Moore Thread .
+- 🌱 I’m work in Moore Threads .
 
 Disaster comes off guard,but so is happiness.
 
