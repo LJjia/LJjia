@@ -4,8 +4,6 @@
 
 Disaster comes off guard,but so is happiness.
 
-ea890-297dd
-27a5d-ef983
 
 <!---
 LJjia/LJjia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
